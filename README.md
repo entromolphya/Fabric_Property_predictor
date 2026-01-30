@@ -50,8 +50,7 @@ This application helps textile industry professionals predict important fabric p
 
 ```
 ## 🚀 Installation
-```
-```
+
 ### Step 1: Clone the Repository
 
 ```bash
