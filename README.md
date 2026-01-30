@@ -1,7 +1,3 @@
-# Just Copy Everything Between the Triple Backticks
-
-Copy **only this part** below:
-
 ---
 
 **Start copying from here ↓**
